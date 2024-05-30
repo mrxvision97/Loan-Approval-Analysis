@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9865b0bc-3449-45be-bd23-38c1bc835ccb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loan_approval_analysis/notebooks/exploratory_analysis/eda.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan_approval_analysis/notebooks/exploratory_analysis/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/loan_approval_analysis/notebooks/exploratory_analysis/eda.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
